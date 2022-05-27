@@ -15,7 +15,7 @@
 
 ## Architecture of the BIG-Net
 <img src="tutorials_imgs/07_NN_architecture_small.svg" width="100%" alt="flowchart">
-Note: The 3-layer encoder is composed of a 128-channel CNN with the 9$\times$9 kernel, a 64-channel CNN with the 3$\times$3 kernel and a 32-channel CNN with the 3$\times$3 kernel. The decoders are defined with the same parameters by reverse order.
+Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, a 64-channel CNN with the 3*3 kernel and a 32-channel CNN with the 3*3 kernel. The decoders are defined with the same parameters by reverse order.
 
 ## Extra explanation
 1) This repository has been tested on Ubuntu 16.0 (python 3.6) and Ubuntu 20.0 (python 3.8), and the following tutorial is based on Ubuntu 20.0 (python 3.8).
@@ -49,10 +49,7 @@ Note: The 3-layer encoder is composed of a 128-channel CNN with the 9$\times$9 k
 # Robotic Grasping
 Here are four expamles of robotic grasping evaluated via the BIG-Net.
 
-<img src="tutorials_imgs/grasp_obj_01.svg" width="20%" alt="flowchart">
-<img src="tutorials_imgs/grasp_obj_02.svg" width="20%" alt="flowchart">
-<img src="tutorials_imgs/grasp_obj_03.svg" width="20%" alt="flowchart">
-<img src="tutorials_imgs/grasp_obj_04.svg" width="20%" alt="flowchart">
+<img src="tutorials_imgs/grasp_obj_01.svg" width="20%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_02.svg" width="20%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_03.svg" width="20%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_04.svg" width="20%" alt="flowchart">
 
 
 ### Extra tips for neural network training
