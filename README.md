@@ -7,16 +7,15 @@
 
 <img src="tutorials_imgs/01_abstract.png" width="100%" alt="abstract">
 
-
-Pipeline of the proposed grasping method with a bio-inspired soft gripper:
+## Pipeline of the proposed grasping method with a bio-inspired soft gripper
 <img src="tutorials_imgs/02_flowchart_grasping_method.svg" width="100%" alt="flowchart">
 
-Pipeline of the grasp simulation and dataset collection
+## Pipeline of the grasp simulation and dataset collection
 <img src="tutorials_imgs/04_dataset_collection_small.svg" width="100%" alt="flowchart">
 
-Architecture of the BIG-Net. Note: The 3-layer encoder is composed of a 128-channel CNN with the 9$\times$9 kernel, a 64-channel CNN with the 3$\times$3 kernel and a 32-channel CNN with the 3$\times$3 kernel. The decoders are defined with the same parameters by reverse order.
+## Architecture of the BIG-Net
 <img src="tutorials_imgs/07_NN_architecture_small.svg" width="100%" alt="flowchart">
-
+Note: The 3-layer encoder is composed of a 128-channel CNN with the 9$\times$9 kernel, a 64-channel CNN with the 3$\times$3 kernel and a 32-channel CNN with the 3$\times$3 kernel. The decoders are defined with the same parameters by reverse order.
 
 ## Extra explanation
 1) This repository has been tested on Ubuntu 16.0 (python 3.6) and Ubuntu 20.0 (python 3.8), and the following tutorial is based on Ubuntu 20.0 (python 3.8).
