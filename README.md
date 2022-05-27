@@ -5,16 +5,16 @@
 
 ## Abstract
 
-<img src="tutorials_imgs/01_abstract.png" width="100%" alt="abstract">
+<img src="tutorials_imgs/01_abstract.png" width="80%" alt="abstract">
 
 ## Pipeline of the proposed grasping method with a bio-inspired soft gripper
-<img src="tutorials_imgs/02_flowchart_grasping_method.svg" width="100%" alt="flowchart">
+<img src="tutorials_imgs/02_flowchart_grasping_method.svg" width="80%" alt="flowchart">
 
 ## Pipeline of the grasp simulation and dataset collection
-<img src="tutorials_imgs/04_dataset_collection_small.svg" width="100%" alt="flowchart">
+<img src="tutorials_imgs/04_dataset_collection_small.svg" width="80%" alt="flowchart">
 
 ## Architecture of the BIG-Net
-<img src="tutorials_imgs/07_NN_architecture_small.svg" width="100%" alt="flowchart">
+<img src="tutorials_imgs/07_NN_architecture_small.svg" width="80%" alt="flowchart">
 Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, a 64-channel CNN with the 3*3 kernel and a 32-channel CNN with the 3*3 kernel. The decoders are defined with the same parameters by reverse order.
 
 ## Extra explanation
