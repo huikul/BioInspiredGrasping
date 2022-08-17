@@ -22,7 +22,7 @@ Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, 
 2) **Please don't spread this repository online before our paper is published.**
 
 # Video demo
-1. https://youtu.be/7YNgPb-C4ZI
+1. https://youtu.be/ijI0KpWPNKw
 2. https://kuleuven-my.sharepoint.com/:v:/g/personal/hui_zhang_kuleuven_be/ET6JikzL6DZMlK6RXpgZvsUBVq3hjeORHYM4D02XWpdlxg?e=sKyezH
 
 # Tutorials
