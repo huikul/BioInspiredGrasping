@@ -22,8 +22,8 @@ Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, 
 2) **Please don't spread this repository online before our paper is published.**
 
 # Video demo
-1. https://youtu.be/ijI0KpWPNKw
-2. https://kuleuven-my.sharepoint.com/:v:/g/personal/hui_zhang_kuleuven_be/Eb9Gvt0NXcxPn8waYZ_R2yUBK9RuaeqhhoG3pqI3Tv3sjg?e=eCh6OU
+1. https://youtu.be/mTenaFlNuNE
+2. https://kuleuven-my.sharepoint.com/:v:/g/personal/hui_zhang_kuleuven_be/EXxK4P_ZT4dOuOFkBRy7NrYBezMTOlg-cJS_DwUb-UQDbQ?e=wZAFJV
 
 # Tutorials
 ## Train a neural network
