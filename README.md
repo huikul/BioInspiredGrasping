@@ -55,7 +55,7 @@ Here are four expamles of robotic grasping evaluated via the BIG-Net.
 
 ### Extra tips for neural network training
 
-1. A backup links [1](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EczBCPsAR-hJozIpOCDuz8QBS4g68uPJyRV5jc3kDWYrCw?e=DKolSH), [2](https://1drv.ms/u/s!Aok6lAYtb5vYzSWyXYpjrZxKPUwo?e=TDPp9a) to download our mini dataset.
+1. Backup links [1](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EczBCPsAR-hJozIpOCDuz8QBS4g68uPJyRV5jc3kDWYrCw?e=DKolSH), [2](https://1drv.ms/u/s!Aok6lAYtb5vYzSWyXYpjrZxKPUwo?e=TDPp9a) to download our mini dataset.
 
 # Citation
 ## **Will be available soon. Please don't spread this repository online before our paper is published.**
