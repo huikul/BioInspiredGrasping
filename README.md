@@ -23,7 +23,8 @@ Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, 
 
 # Video demo
 1. https://youtu.be/mTenaFlNuNE
-2. https://1drv.ms/v/s!Aok6lAYtb5vYzSRuqDghxd6xCITd?e=Zb1ZXy
+2. https://kuleuven-my.sharepoint.com/:v:/g/personal/hui_zhang_kuleuven_be/EXxK4P_ZT4dOuOFkBRy7NrYBezMTOlg-cJS_DwUb-UQDbQ?e=UEBR6h
+3. https://1drv.ms/v/s!Aok6lAYtb5vYzSRuqDghxd6xCITd?e=Zb1ZXy
 
 # Tutorials
 ## Train a neural network
@@ -54,7 +55,7 @@ Here are four expamles of robotic grasping evaluated via the BIG-Net.
 
 ### Extra tips for neural network training
 
-1. A backup [link](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EczBCPsAR-hJozIpOCDuz8QBS4g68uPJyRV5jc3kDWYrCw?e=DKolSH) to download our mini dataset.
+1. A backup links [1](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EczBCPsAR-hJozIpOCDuz8QBS4g68uPJyRV5jc3kDWYrCw?e=DKolSH), [2]() to download our mini dataset.
 
 # Citation
 ## **Will be available soon. Please don't spread this repository online before our paper is published.**
