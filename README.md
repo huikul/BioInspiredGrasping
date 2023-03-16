@@ -1,7 +1,5 @@
 # BioInspiredGrasping
 
-# Introduction
-### **Please don't spread this repository online before our paper is published.**
 
 ## Abstract
 
@@ -58,4 +56,12 @@ Here are four expamles of robotic grasping evaluated via the BIG-Net.
 1. Backup links [1](https://kuleuven-my.sharepoint.com/:u:/g/personal/hui_zhang_kuleuven_be/EczBCPsAR-hJozIpOCDuz8QBS4g68uPJyRV5jc3kDWYrCw?e=DKolSH), [2](https://1drv.ms/u/s!Aok6lAYtb5vYzSWyXYpjrZxKPUwo?e=TDPp9a) to download our mini dataset.
 
 # Citation
-## **Will be available soon. Please don't spread this repository online before our paper is published.**
+## @ARTICLE{9984196,
+  author={Zhang, Hui and Wu, Yanming and Demeester, Eric and Kellens, Karel},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={BIG-Net: Deep Learning for Grasping With a Bio-Inspired Soft Gripper}, 
+  year={2023},
+  volume={8},
+  number={2},
+  pages={584-591},
+  doi={10.1109/LRA.2022.3229237}}
