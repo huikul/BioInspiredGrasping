@@ -57,11 +57,12 @@ Here are four expamles of robotic grasping evaluated via the BIG-Net.
 
 # Citation
   @ARTICLE{9984196,
-  author={Zhang, Hui and Wu, Yanming and Demeester, Eric and Kellens, Karel},
-  journal={IEEE Robotics and Automation Letters}, 
-  title={BIG-Net: Deep Learning for Grasping With a Bio-Inspired Soft Gripper}, 
-  year={2023},
-  volume={8},
-  number={2},
-  pages={584-591},
-  doi={10.1109/LRA.2022.3229237}}
+    author  = {Zhang, Hui and Wu, Yanming and Demeester, Eric and Kellens, Karel},  
+    journal = {IEEE Robotics and Automation Letters},   
+    title   = {BIG-Net: Deep Learning for Grasping With a Bio-Inspired Soft Gripper},   
+    year    = {2023},  
+    volume  = {8},  
+    number  = {2},  
+    pages   = {584-591},  
+    doi     = {10.1109/LRA.2022.3229237}  
+  }  
