@@ -46,7 +46,7 @@ Note: The 3-layer encoder is composed of a 128-channel CNN with the 9*9 kernel, 
     ```
 
 # Robotic grasping
-Here are four expamles of robotic grasping evaluated via the BIG-Net.
+Here are four examples of robotic grasping evaluated via the BIG-Net.
 
 <img src="tutorials_imgs/grasp_obj_01.svg" width="10%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_02.svg" width="10%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_03.svg" width="10%" alt="flowchart"> <img src="tutorials_imgs/grasp_obj_04.svg" width="14%" alt="flowchart">
 
